@@ -1,6 +1,6 @@
-# Olá! 👋
+## Olá! 👋 Eu sou Carlos Ramiro Trejes!
 
-Sou Carlos Ramiro Trejes, estudante do 3º semestre de Engenharia de Software na PUCRS, em transição de carreira após uma trajetória na área de Farmácia e Pesquisa Científica. Essa vivência me trouxe uma base sólida em metodologia, rigor analítico e fluência em inglês (aprimorada por vivência internacional nos EUA), competências que aplico diariamente na resolução de problemas lógicos e na construção de software.
+Sou estudante do 3º semestre de Engenharia de Software na PUCRS, em transição de carreira após uma trajetória na área de Farmácia e Pesquisa Científica.
 
 Meu foco principal é o desenvolvimento **Backend**. Atualmente, construo aplicações e participo ativamente de sprints de desenvolvimento em projetos acadêmicos (como na AGES), aplicando conceitos de metodologias ágeis, versionamento de código e arquitetura de APIs REST.
 
