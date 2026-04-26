@@ -4,7 +4,7 @@ Sou Carlos Ramiro Trejes, estudante do 3º semestre de Engenharia de Software na
 
 Meu foco principal é o desenvolvimento **Backend**. Atualmente, construo aplicações e participo ativamente de sprints de desenvolvimento em projetos acadêmicos (como na AGES), aplicando conceitos de metodologias ágeis, versionamento de código e arquitetura de APIs REST.
 
-### Ferramentas que utilizo
+### Ferramentas e Conhecimentos
 * **Ecossistema:** TypeScript, Node.js, NestJS
 * **Outras tecnologias:** Java, React, React Native
 * **Conceitos:** Programação Orientada a Objetos (POO), Estruturas de Dados
