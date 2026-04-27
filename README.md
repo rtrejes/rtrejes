@@ -1,17 +1,26 @@
-## Olá! 👋 Eu sou Carlos Ramiro Trejes!
+## Hi there 👋 I'm Carlos Ramiro Trejes.
 
-Sou estudante do 3º semestre de Engenharia de Software na PUCRS, em transição de carreira após uma trajetória na área de Farmácia e Pesquisa Científica.
+Software Engineering student at PUCRS (Brazil), currently in my 3rd semester, transitioning into software development after a background in Pharmacy and Scientific Research.
 
-Meu foco principal é o desenvolvimento **Backend**. Atualmente, construo aplicações e participo ativamente de sprints de desenvolvimento em projetos acadêmicos (como na AGES), aplicando conceitos de metodologias ágeis, versionamento de código e arquitetura de APIs REST.
+I am focused on Backend Development, building scalable REST APIs with Node.js, NestJS, and TypeScript. I actively contribute to academic software projects, applying Agile methodologies, Git workflows, and clean architecture principles.
 
-### Ferramentas e Conhecimentos
-* **Ecossistema:** TypeScript, Node.js, NestJS
-* **Outras tecnologias:** Java, React, React Native
-* **Conceitos:** Programação Orientada a Objetos (POO), Estruturas de Dados
+My background in scientific research has strengthened my analytical thinking, problem-solving skills, and attention to detail, which I now apply to software engineering.
 
-### Como me encontrar
-* [LinkedIn](https://www.linkedin.com/in/ramiro-trejes)
-* [Instagram](https://www.instagram.com/rtrejes/)
+---
+
+### 🧰 Tech Stack
+
+- **Backend:** Node.js, NestJS, TypeScript, REST APIs  
+- **Frontend / Mobile:** React, React Native  
+- **Languages:** Java, JavaScript, Python  
+- **Concepts:** Object-Oriented Programming, Data Structures
+
+---
+
+### 📫 Connect with me
+
+- LinkedIn: linkedin.com/in/ramiro-trejes
+
 <!--
 **rtrejes/rtrejes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
