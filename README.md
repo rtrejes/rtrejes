@@ -19,7 +19,7 @@ My background in scientific research has strengthened my analytical thinking, pr
 
 ### 📫 Connect with me
 
-- LinkedIn: linkedin.com/in/ramiro-trejes
+- LinkedIn: [linkedin.com/in/ramiro-trejes](https://www.linkedin.com/in/ramiro-trejes/)
 
 <!--
 **rtrejes/rtrejes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
