@@ -8,19 +8,13 @@ My background in scientific research has strengthened my analytical thinking, pr
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-### Authentication REST API
-Backend API built with NestJS and PostgreSQL featuring JWT authentication, password hashing with bcrypt, and layered architecture principles.
+- **Authentication REST API** → JWT authentication API built with NestJS and PostgreSQL  
+  🔗 github.com/rtrejes/Auth-API-NestJS
 
-🔗 github.com/rtrejes/Auth-API-NestJS
-
----
-
-### Java CRUD Desktop Application
-Desktop application developed in Java with graphical interface implementation and Object-Oriented Programming concepts.
-
-🔗 github.com/rtrejes/TFinal---POO
+- **Java CRUD Desktop Application** → Java desktop application using Object-Oriented Programming concepts  
+  🔗 github.com/rtrejes/TFinal---POO
 
 ---
 
