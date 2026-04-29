@@ -20,10 +20,10 @@ My background in scientific research has strengthened my analytical thinking, pr
 ### 🚀 Featured Projects
 
 - **Authentication REST API** → JWT authentication API built with NestJS and PostgreSQL  
-  🔗 github.com/rtrejes/Auth-API-NestJS
+  🔗 [View Repository](https://github.com/rtrejes/Auth-API-NestJS)
 
 - **Java CRUD Desktop Application** → Java desktop application using Object-Oriented Programming concepts  
-  🔗 github.com/rtrejes/TFinal---POO
+  🔗 [View Repository](https://github.com/rtrejes/TFinal---POO)
   
 ---
 
