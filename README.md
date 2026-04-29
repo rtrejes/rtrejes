@@ -35,7 +35,7 @@ Desktop application developed in Java with graphical interface implementation an
 
 ### 📫 Connect with me
 
-- LinkedIn: linkedin.com/in/ramiro-trejes
+- [LinkedIn](https://www.linkedin.com/in/ramiro-trejes/)
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtrejes&theme=github_dark&layout=donut)](https://github.com/rtrejes)
