@@ -33,7 +33,9 @@ My background in scientific research has strengthened my analytical thinking, pr
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtrejes&theme=github_dark&layout=donut" />
+  <a href="https://github.com/rtrejes">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtrejes&theme=github_dark&layout=donut" />
+  </a>
 </p>
 
 
