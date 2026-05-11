@@ -17,27 +17,10 @@ My background in scientific research has strengthened my analytical thinking, pr
 
 ---
 
-### 🚀 Featured Projects
-
-- **Authentication REST API** → JWT authentication API built with NestJS and PostgreSQL  
-  🔗 [View Repository](https://github.com/rtrejes/Auth-API-NestJS)
-
-- **Java CRUD Desktop Application** → Java desktop application using Object-Oriented Programming concepts  
-  🔗 [View Repository](https://github.com/rtrejes/TFinal---POO)
-  
----
 
 ### 📫 Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/ramiro-trejes/)
-
----
-<p align="center">
-  <a href="https://github.com/rtrejes">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtrejes&theme=github_dark&layout=donut" />
-  </a>
-</p>
-
 
 <!--
 **rtrejes/rtrejes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
